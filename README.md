@@ -1,14 +1,19 @@
+# gamepadbrowser
+Gamepad Browser  - Documentation &amp; Support
+
+<a href="https://play.google.com/store/apps/details?id=com.namcreations.browsergameplay">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200">
+</a>
+
+## Download
+You can download the latest version of **Gamepad Browser** directly from the [Google Play Store](https://play.google.com/store/apps/details?id=com.namcreations.browsergameplay).
+
 <img width="1496" height="720" alt="Shot#1" src="https://github.com/user-attachments/assets/8dff52f7-73e3-4e1e-8fb7-d67d11a76400" />
 <img width="1496" height="720" alt="Screenshot_20260212-194645" src="https://github.com/user-attachments/assets/cbfc4700-0646-43c7-ac64-047d0c1ac7c2" />
 <img width="1024" height="500" alt="Feature260308" src="https://github.com/user-attachments/assets/9954a49d-faf1-4c8b-8ce3-edf2c4a03524" />
-<img width="10
 
-https://github.com/user-attachments/assets/dfd1c293-916a-4030-9163-a1f46ea40420
-
-<img width="1496" height="720" alt="Shot#2" src="https://github.com/user-attachments/assets/f2fff6b9-a448-4d4f-b6c3-3451a6248f48" />
-24" height="500" alt="Feature5" src="https://github.com/user-attachments/assets/81f090d2-878f-407f-8706-29f43fadd933" />
-# gamepadbrowser
-Gamepad Browser  - Documentation &amp; Support
+## Download
+You can download the latest version of **Gamepad Browser** directly from the [Google Play Store](https://play.google.com/store/apps/details?id=com.namcreations.browsergameplay).
 
 Instantly play PC web games with a virtual pad! Perfect for Itch.io and PICO-8.
 
@@ -36,6 +41,9 @@ This app supports common game sites that run on HTML5 and WebGL (such as Itch.io
 This app sends standard keyboard events to web pages.
 It can also be used as a debugging tool to adapt your games for mobile.
 
+## Download
+You can download the latest version of **Gamepad Browser** directly from the [Google Play Store](https://play.google.com/store/apps/details?id=com.namcreations.browsergameplay).
+
 【Why You Need This App】
 【Turn Your Smartphone into the Ultimate PC Gaming Console】
 For too long, the best indie titles on the web have been restricted to desktop computers. You find a promising Web Game, open it on your phone, only to realize it requires a keyboard to play. We believe gaming should have no boundaries. That’s why we created this app—to bridge the gap between PC creativity and mobile freedom.
@@ -46,3 +54,6 @@ Whether you are speed-running a platformer that uses Arrow Keys or surviving a h
 ■ Instant Access, Limitless Library
 The beauty of a Web Game is that it requires no massive downloads. With this app, your phone becomes a portal to thousands of indie games hosted on sites like Itch.io and Newgrounds.
 Don't let the lack of a physical keyboard stop you. Experience the freedom to play PC games on mobile anytime, anywhere. With fully customizable controls and a sleek interface, your next gaming obsession is just a tap away. Unlock the true potential of mobile web gaming today.
+
+## Download
+You can download the latest version of **Gamepad Browser** directly from the [Google Play Store](https://play.google.com/store/apps/details?id=com.namcreations.browsergameplay).
